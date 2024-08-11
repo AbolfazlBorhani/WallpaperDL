@@ -1,5 +1,5 @@
-<p>README.md</p>
-<p>==========</p>
+README.md
+=========
 <p><br></p>
 <p>&gt; Url: Go to <a data-fr-linked="true" href="//www.peakpx.com">www.peakpx.com</a> and enter the URL of the wallpaper category you want in this box.</p>
 <p>&gt; Path: The storage location of the selected wallpapers.</p>
